@@ -40,8 +40,8 @@ Let's see what we can bring about.
 -   libigl: https://github.com/libigl
 -   pybind11: https://github.com/pybind/pybind11
 
-Packages
-=========
+&#127873; Packages
+==================
 
 | package | description |
 | :--: | :-- |
