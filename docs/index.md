@@ -47,5 +47,3 @@ Let's see what we can bring about.
 | :--: | :-- |
 | [cmake-example](https://cmake-example.readthedocs.io) | Example pybind11 module built with a CMake-based build system. |
 | [concave-hull](https://concave-hull.readthedocs.io) | A very fast 2D concave hull algorithm. |
-
-
