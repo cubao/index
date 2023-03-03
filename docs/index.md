@@ -40,10 +40,12 @@ Let's see what we can bring about.
 -   libigl: https://github.com/libigl
 -   pybind11: https://github.com/pybind/pybind11
 
-Packages
-=========
+&#127873; Packages
+==================
 
 | package | description |
 | :--: | :-- |
 | [cmake-example](https://cmake-example.readthedocs.io) | Example pybind11 module built with a CMake-based build system. |
 | [concave-hull](https://concave-hull.readthedocs.io) | A very fast 2D concave hull algorithm. |
+
+
