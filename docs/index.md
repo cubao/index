@@ -36,14 +36,16 @@ Let's see what we can bring about.
 👩‍💻 Useful resources
 ====================
 
--   mapbox: https://github.com/mapbox
--   libigl: https://github.com/libigl
--   pybind11: https://github.com/pybind/pybind11
+-   mapbox: <https://github.com/mapbox>
+-   libigl: <https://github.com/libigl>
+-   pybind11: <https://github.com/pybind/pybind11>
 
-&#127873; Packages
-==================
+🎁 Packages
+============
 
 | package | description |
 | :--: | :-- |
 | [cmake-example](https://cmake-example.readthedocs.io) | Example pybind11 module built with a CMake-based build system. |
 | [concave-hull](https://concave-hull.readthedocs.io) | A very fast 2D concave hull algorithm. |
+| [polyline-ruler](https://polyline-ruler.readthedocs.io) | Init from mapbox/cheap-ruler but more than that. |
+| [fast-crossing](https://fast-crossing.readthedocs.io) | Fast polyline (line segments) intersection (fast version of bentley-ottmann) |
