@@ -10,7 +10,9 @@ theme: readthedocs
 nav:
     -   Home: index.md
     -   Notebooks:
+        -   notebooks/index.md
         -   notebooks/concave-hull.ipynb
+        -   notebooks/polyline-ruler.ipynb
     -   About:
         -   Release Notes: about/release-notes.md
         -   License: about/license.md
