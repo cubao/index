@@ -1,4 +1,4 @@
 -r docs/requirements.txt
+ipyleaflet
 jupyterlab
 jupyterlab-geojson
-ipyleaflet
