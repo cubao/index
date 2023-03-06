@@ -13,3 +13,6 @@ docs_build:
 	mkdocs build
 docs_serve:
 	mkdocs serve -a 0.0.0.0:8088
+
+jupyterlab:
+	jupyter lab --ip=0.0.0.0 --port 8899 --LabApp.token='' --no-browser
