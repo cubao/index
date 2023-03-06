@@ -8,9 +8,15 @@ edit_uri: blob/master/docs/
 
 theme: readthedocs
 nav:
-    - Home: index.md
-    - About:
-        - Release Notes: about/release-notes.md
-        - License: about/license.md
+    -   Home: index.md
+    -   Notebooks:
+        -   notebooks/concave-hull.ipynb
+    -   About:
+        -   Release Notes: about/release-notes.md
+        -   License: about/license.md
+
+plugins:
+-   include-markdown
+-   mkdocs-jupyter
 
 copyright: Copyright &copy; 2023 <a href="https://github.com/cubao">cubao team</a>.
