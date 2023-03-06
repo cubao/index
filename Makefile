@@ -9,6 +9,9 @@ lint:
 lint_install:
 	pre-commit install
 
+install:
+	python3 -m pip install -r requirements.txt
+
 docs_build:
 	mkdocs build
 docs_serve:

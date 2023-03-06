@@ -1,4 +1,9 @@
 -r docs/requirements.txt
+concave-hull
 ipyleaflet
 jupyterlab
 jupyterlab-geojson
+k3d
+polyline-ruler
+pybind11-geobuf
+pybind11-rdp
