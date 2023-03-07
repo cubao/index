@@ -18,4 +18,5 @@ docs_serve:
 	mkdocs serve -a 0.0.0.0:8088
 
 jupyterlab:
-	jupyter lab --ip=0.0.0.0 --port 8899 --LabApp.token='' --no-browser
+	jupyter lab --ip=0.0.0.0 --port 8899 --LabApp.token='' --no-browser \
+		--ServerApp.iopub_msg_rate_limit 10000000
