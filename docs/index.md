@@ -43,12 +43,22 @@ Let's see what we can bring about.
 🎁 Packages
 ============
 
+**Featured**
+
 | Package | Description |
 | :-- | :-- |
-| [cmake-example](https://cmake-example.readthedocs.io) | Example pybind11 module built with a CMake-based build system. |
 | [concave-hull](https://concave-hull.readthedocs.io) | A very fast 2D concave hull algorithm. |
 | [fast-crossing](https://fast-crossing.readthedocs.io) | Fast polyline (line segments) intersection (fast version of bentley-ottmann). |
 | [geobuf-cpp](https://geobuf-cpp.readthedocs.io) | C++ port of mapbox/geobuf, and with python binding. |
 | [polyline-ruler](https://polyline-ruler.readthedocs.io) | Init from mapbox/cheap-ruler but more than that. |
 | [pybind11-rdp](https://pybind11-rdp.readthedocs.io) | C++/pybind11/NumPy implementation of the Ramer-Douglas-Peucker algorithm, a fast and correct drop-in replacement for python [rdp](https://github.com/fhirschmann/rdp) |
+
+![](notebooks/fast-crossing.gif)
+
+**More**
+
+| Package | Description |
+| :-- | :-- |
+| [cmake-example](https://cmake-example.readthedocs.io) | Example pybind11 module built with a CMake-based build system. |
+| [pybind11-union-find](https://pybind11-union-find.readthedocs.io) | C++ version of union-find, with python binding. |
 | [ubuntu16.04/open3d](https://github.com/cubao/Open3D) | open3d build scripts and wheels for ubuntu 16.04 (officially not supported now by [isl-org/open3d](https://github.com/isl-org/Open3D) |
