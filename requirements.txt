@@ -1,5 +1,6 @@
 -r docs/requirements.txt
 concave-hull
+fast-crossing
 ipyleaflet
 jupyterlab
 jupyterlab-geojson
