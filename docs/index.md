@@ -53,6 +53,8 @@ Let's see what we can bring about.
 | [polyline-ruler](https://polyline-ruler.readthedocs.io) | Init from mapbox/cheap-ruler but more than that. |
 | [pybind11-rdp](https://pybind11-rdp.readthedocs.io) | C++/pybind11/NumPy implementation of the Ramer-Douglas-Peucker algorithm, a fast and correct drop-in replacement for python [rdp](https://github.com/fhirschmann/rdp) |
 
+![](notebooks/fast-crossing.gif)
+
 **More**
 
 | Package | Description |
